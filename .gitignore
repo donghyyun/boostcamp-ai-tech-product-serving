@@ -1,0 +1,7 @@
+*.ipynb_checkpoints
+*.ipynb
+*.csv
+part2/special_mission1/model
+
+__pycache__/
+*.pyc
